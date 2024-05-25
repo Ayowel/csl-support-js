@@ -2,7 +2,7 @@
 
 This repository provides statically-loaded NPM modules that expose CSL assets provided by the [CSL project](https://citationstyles.org/).
 
-The code in this repository is under the Apache license, however all CSL assets (locales and styles) are under the [Creative Commons Attribution-ShareAlike 3.0 Unported license](https://creativecommons.org/licenses/by-sa/3.0/)
+The code in this repository is under the MIT license, however all CSL assets (locales and styles) are under the [Creative Commons Attribution-ShareAlike 3.0 Unported license](https://creativecommons.org/licenses/by-sa/3.0/)
 
 ## Assets
 

@@ -1,4 +1,7 @@
 import {promises as fs} from 'fs'
+import fs_base from 'fs'
+
+export const license = fs_base.readFileSync(__dirname + '/../LICENSE', {encoding: 'utf8'})
 
 /** The default package.json declaration used */
 export const base_project_package = {

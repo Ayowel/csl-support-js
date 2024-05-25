@@ -50,6 +50,7 @@ async function create_update_style_project(target_parent_dir: string, style_info
 
     await fs.mkdir(target_parent_dir).catch((r) => {if(r.errno!=-17){throw r}})
     await commons.update_file(`${target_parent_dir}/README.md`, markdown_readme_content)
+    await commons.update_file(`${target_parent_dir}/LICENSE.md`, commons.license)
     let is_updated = await commons.update_file(`${target_parent_dir}/index.js`, new_impl[0]) |
                         await commons.update_file(`${target_parent_dir}/index.mjs`, new_impl[1]) |
                         await commons.update_file(`${target_parent_dir}/index.d.ts`, new_impl[2]) |
@@ -66,6 +67,7 @@ async function create_update_all_styles_project(target_parent_dir: string, style
     const package_file_path = `${target_parent_dir}/package.json`
     const current_package = await fs.readFile(package_file_path, {encoding: 'utf8'}).then((c) => JSON.parse(c))
     await commons.update_file(`${target_parent_dir}/README.md`, markdown_readme_content)
+    await commons.update_file(`${target_parent_dir}/LICENSE.md`, commons.license)
     const is_updated = await commons.update_file(`${target_parent_dir}/info.json`, json_stringify(style_map))
     if (is_updated) {
         const split_version = current_package['version'].split('.')
