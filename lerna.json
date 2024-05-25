@@ -2,6 +2,7 @@
     "version": "independent",
     "command": {
       "publish": {
+        "bump": "from-package",
         "message": "chore(release): publish"
       }
     },
