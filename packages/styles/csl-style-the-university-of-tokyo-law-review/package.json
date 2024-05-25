@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for 東京大学法科大学院ローレビュー (The University of Tokyo Law Review) (日本語)",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-the-university-of-tokyo-law-review",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

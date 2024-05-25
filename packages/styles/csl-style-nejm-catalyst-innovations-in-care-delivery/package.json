@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for NEJM Catalyst Innovations in Care Delivery",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-nejm-catalyst-innovations-in-care-delivery",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

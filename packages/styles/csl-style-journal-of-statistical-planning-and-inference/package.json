@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for Journal of Statistical Planning and Inference",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-journal-of-statistical-planning-and-inference",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

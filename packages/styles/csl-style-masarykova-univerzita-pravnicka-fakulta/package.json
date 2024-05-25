@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for Masarykova univerzita - Právnická fakulta",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-masarykova-univerzita-pravnicka-fakulta",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

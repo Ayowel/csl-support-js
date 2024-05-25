@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for Open Learning: The Journal of Open, Distance and e-Learning",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-open-learning-the-journal-of-open-distance-and-e-learning",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

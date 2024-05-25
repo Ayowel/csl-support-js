@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for Politeknik Negeri Manado - Jurnal Pusat Penelitian dan Pengabdian Kepada Masyarakat (Bahasa Indonesia)",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-politeknik-negeri-manado-jurnal-p3m",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

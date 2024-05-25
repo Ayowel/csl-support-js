@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for Bern University of Applied Sciences - School of Agricultural, Forest and Food Sciences HAFL (author-date)",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-bern-university-of-applied-sciences-school-of-agricultural-forest-and-food-sciences-hafl",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for Interdisciplinary Neurosurgery: Advanced Techniques and Case Management",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-interdisciplinary-neurosurgery-advanced-techniques-and-case-management",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

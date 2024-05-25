@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for American Journal of Otolaryngology--Head and Neck Medicine and Surgery",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-american-journal-of-otolaryngology-head-and-neck-medicine-and-surgery",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

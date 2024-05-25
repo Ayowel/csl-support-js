@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for Escola de Comando e Estado-Maior do Exército - Instituto Meira Mattos - ABNT (Português - Brasil)",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-associacao-brasileira-de-normas-tecnicas-instituto-meira-mattos",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

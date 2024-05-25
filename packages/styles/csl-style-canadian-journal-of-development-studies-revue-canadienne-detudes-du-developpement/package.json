@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for Canadian Journal of Development Studies / Revue canadienne d'études du développement",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-canadian-journal-of-development-studies-revue-canadienne-detudes-du-developpement",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

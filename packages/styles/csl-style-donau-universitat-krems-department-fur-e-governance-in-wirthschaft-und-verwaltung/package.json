@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for Donau-Universität Krems - Department für E-Governance in Wirtschaft und Verwaltung (Deutsch - Österreich)",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-donau-universitat-krems-department-fur-e-governance-in-wirthschaft-und-verwaltung",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

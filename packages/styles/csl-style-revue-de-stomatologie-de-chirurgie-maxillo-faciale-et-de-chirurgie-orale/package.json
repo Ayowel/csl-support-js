@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for Revue de Stomatologie, de Chirurgie Maxillo-faciale et de Chirurgie Orale",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-revue-de-stomatologie-de-chirurgie-maxillo-faciale-et-de-chirurgie-orale",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,14 @@
+{
+    "version": "independent",
+    "command": {
+      "publish": {
+        "message": "chore(release): publish"
+      }
+    },
+    "packages": [
+        "packages/locales/*",
+        "packages/styles/*",
+        "packages/csl-locale-all/*",
+        "packages/csl-style-all/*"
+    ]
+}

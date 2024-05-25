@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for Société Française d’Étude de la Céramique Antique en Gaule (Français)",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-societe-francaise-detude-de-la-ceramique-antique-en-gaule",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for Research Institute for Nature and Forest (Instituut voor Natuur- en Bosonderzoek)",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-research-institute-for-nature-and-forest",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

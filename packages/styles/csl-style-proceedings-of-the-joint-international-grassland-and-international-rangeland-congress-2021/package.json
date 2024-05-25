@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for Proceedings of the Joint International Grassland & International Rangeland Congress 2021",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-proceedings-of-the-joint-international-grassland-and-international-rangeland-congress-2021",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for International Perspectives in Psychology: Research, Practice, Consultation",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-international-perspectives-in-psychology-research-practice-consultation",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

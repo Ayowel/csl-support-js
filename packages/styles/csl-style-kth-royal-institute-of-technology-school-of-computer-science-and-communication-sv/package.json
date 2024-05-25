@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for KTH Royal Institute of Technology - School of Computer Science and Communication (Svenska)",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-kth-royal-institute-of-technology-school-of-computer-science-and-communication-sv",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

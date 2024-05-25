@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for Egyptian Journal of Ear, Nose, Throat and Allied Sciences",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-egyptian-journal-of-ear-nose-throat-and-allied-sciences",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

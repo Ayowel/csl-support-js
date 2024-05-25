@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for GENDER. Zeitschrift für Geschlecht, Kultur und Gesellschaft (Deutsch)",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-gender-zeitschrift-fur-geschlecht-kultur-und-gesellschaft",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for Universidade Federal de Sergipe - Departamento de Engenharia de Produção - ABNT (Português - Brasil)",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-universidade-federal-de-sergipe-departamento-de-engenharia-de-producao-abnt",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

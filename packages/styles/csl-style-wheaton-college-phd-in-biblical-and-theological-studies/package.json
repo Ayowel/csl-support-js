@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for Wheaton College - Ph.D. in Biblical and Theological Studies",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-wheaton-college-phd-in-biblical-and-theological-studies",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

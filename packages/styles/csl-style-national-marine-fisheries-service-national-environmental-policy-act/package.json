@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for National Marine Fisheries Service - National Environmental Policy Act",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-national-marine-fisheries-service-national-environmental-policy-act",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

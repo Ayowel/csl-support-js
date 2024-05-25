@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for Atlas of Genetics and Cytogenetics in Oncology and Haematology",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

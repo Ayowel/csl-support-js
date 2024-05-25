@@ -1,0 +1,23 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "All CSL styles as a single package",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-all",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "ncc build main.ts"
+  },
+  "version": "1.0.0"
+}

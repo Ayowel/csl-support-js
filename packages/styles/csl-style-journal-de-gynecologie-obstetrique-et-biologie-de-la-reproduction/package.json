@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for Journal de Gynécologie Obstétrique et Biologie de la Reproduction",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-journal-de-gynecologie-obstetrique-et-biologie-de-la-reproduction",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

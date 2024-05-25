@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for La Rivista Italiana della Medicina di Laboratorio - Italian Journal of Laboratory Medicine (Italiano)",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-la-rivista-italiana-della-medicina-di-laboratorio-italian-journal-of-laboratory-medicine",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

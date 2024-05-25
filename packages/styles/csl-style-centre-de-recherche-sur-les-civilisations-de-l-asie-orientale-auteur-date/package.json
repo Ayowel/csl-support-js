@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for Centre de recherche sur les civilisations de l’Asie orientale (Français - Auteur, Date)",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-centre-de-recherche-sur-les-civilisations-de-l-asie-orientale-auteur-date",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}

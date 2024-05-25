@@ -1,0 +1,20 @@
+{
+  "author": "Ayowel",
+  "bugs": {
+    "url": "https://github.com/Ayowel/csl-support-js/issues"
+  },
+  "description": "CSL style for Chroniques des activités archéologiques de l'Ecole française de Rome",
+  "homepage": "https://github.com/Ayowel/csl-support-js",
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.mjs",
+  "name": "@citation/csl-style-chroniques-des-activites-archeologiques-de-l-ecole-francaise-de-rome",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0"
+}
