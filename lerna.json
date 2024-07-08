@@ -3,13 +3,15 @@
     "command": {
       "publish": {
         "bump": "from-package",
-        "message": "chore(release): publish"
+        "throttle": true,
+        "throttleDelay": 7200,
+        "throttleSize": 40
       }
     },
     "packages": [
+        "packages/csl-locale-all",
+        "packages/csl-style-all",
         "packages/locales/*",
-        "packages/styles/*",
-        "packages/csl-locale-all/*",
-        "packages/csl-style-all/*"
+        "packages/styles/*"
     ]
 }
