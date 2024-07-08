@@ -6,7 +6,7 @@ import * as loc from './locales'
 const locale_module_prefix = 'csl-locale-'
 
 const markdown_readme_content = [
-    '= CSL locales',
+    '# CSL locales',
     '',
     'This module is part of the embedding modules for [CSL Project](https://citationstyles.org/) locales hosted at https://github.com/Ayowel/csl-support-js.',
     'Consult the base repository for usage instructions.',
